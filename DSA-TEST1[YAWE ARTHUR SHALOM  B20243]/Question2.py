@@ -12,4 +12,3 @@ if martyr_count in catholic_martyrs:
     print('He was Catholic Martyr')
 elif martyr_count in Anglican_martyrs:
     print('He was an Anglican Martyr')
-e
